@@ -34,13 +34,13 @@ V2X 데이터를 기반으로 차량 및 시스템 상태를 분석하고,
 ##  실행 화면
 
 ###  대시보드
-<img src="dashboard.PNG" width="600"/>
+<img src="dashboard.PNG" />
 
 ###  V2X 통신 관리
-<img src="v2x.PNG" width="600"/>
+<img src="v2x.PNG"/>
 
 ###  AI 분석
-<img src="ai.PNG" width="600"/>
+<img src="ai.PNG"/>
 
 
 ---
