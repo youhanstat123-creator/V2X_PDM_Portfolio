@@ -1,0 +1,9 @@
+# V2X 실시간 인입 서버 + LSTM 이상탐지
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+psycopg2-binary>=2.9
+
+# TensorFlow: GPU/CPU 환경에 맞게 설치 (예: pip install tensorflow-cpu)
+tensorflow>=2.15
